@@ -4,6 +4,8 @@ TwinSeg is a novel approach for video chapter segmentation that effectively util
 
 <img src="https://github.com/user-attachments/assets/026b0ca2-d454-4016-8f4c-9d1a9ae3ecb7">
 <br>
+<br>
+
 
 ## Installation
 ```
