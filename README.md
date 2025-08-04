@@ -1,4 +1,4 @@
-# TwinSeg: Temporal Window-based Video Chapter Segmentation
+# Temporal Window Attention for Multimodal Video Chapter Segmentation
 
 TwinSeg is a novel approach for video chapter segmentation that effectively utilizes temporal contextual information through a window-based self-attention mechanism.
 
